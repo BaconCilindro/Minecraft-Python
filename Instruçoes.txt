@@ -1,0 +1,20 @@
+Ola! Voce ja está aqui na pasta neh? Ok
+
+1 passo : Abra o start_server ele vai da start no sv de minecraft, a versão a 1.11.2 mais se quiser outro pode mudar mais 
+        : tome cuidado, como não testei nao sei se dara certo ou se vai dar um erro.
+
+2 passo : Crie uma pasta chamada SetupMc, ela sera a pasta onde voce ira guardar os scripts
+
+3 passo : Extraia o minecraftPythonAPI e abra o em seguida, la terá a pasta mcpi, copie ela e cole na pasta de script(SetupMc)
+
+4 passo : Abra o mine na versão 1.11.2, e crie um arquivo python e coloque ele na pasta setup mc.
+
+5 passo : click com botão direito no arquivo python e vá em editar com IDle versão do python tem que ser 3 no caso a minha e
+        : 3.7 ent seria Idle3.7 tipo isso
+
+6 passo : Apos abrir o arquivo .py voce deverá colocar esse script : from mcpi.minecraft import Minecraft
+                                                                   : mc = Minecraft.create()
+                                                                   : mc.player.gamemode(Survival) - Aqui voce ja deve iniciar o seu script para mudar o mine, o mc.player.gamemode(Survival) e so um exemplo pode mudarisos e colocar outras coisas.
+
+7 passo : veja o video para mais informações.
+
