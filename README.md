@@ -43,7 +43,7 @@ Galera os comandos usaveis estão aqui :
 
 • Camera angles
 
-                                               Comandos Extras
+                                                  Comandos Extras
 
 • getBlocks(x1,y1,z1,x2,y2,z2) - foi implementado
 
