@@ -3,7 +3,7 @@ Coloque o Python dentro do minecraft!!!
 
 Galera os comandos usaveis estão aqui :
 
-                                                               Commandos Suportados
+                                                Commandos Suportados
 
 • world.get/setBlock
 
@@ -39,11 +39,11 @@ Galera os comandos usaveis estão aqui :
 
 • entity.setPos
 
-                                                                Comandos não suportados
+                                               Comandos não suportados
 
 • Camera angles
 
-                                                                    Comandos Extras
+                                               Comandos Extras
 
 • getBlocks(x1,y1,z1,x2,y2,z2) - foi implementado
 
